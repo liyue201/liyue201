@@ -8,7 +8,7 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=liyue201&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyue201)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liyue201&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
