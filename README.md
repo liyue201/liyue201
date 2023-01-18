@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ A blockchain engineer working at home
+⚡ A blockchain engineer mainly focusing on ZKP
 
 🔧 C/C++ / Go / Rust / Solidity 
 
