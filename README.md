@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Im am a blockchain engineer mainly focusing on ZKP
+⚡ I'm am a blockchain engineer mainly focusing on ZKP
 
 🔧 The programming languages I often use are c, c++，go, rust, solidity
 
